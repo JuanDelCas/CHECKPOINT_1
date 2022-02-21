@@ -1,5 +1,6 @@
 1) What are comments?
 
+Lines of code that aren't read by the interpreter.
 
 2) Demonstrate at least 2 ways to create a comment. One should be for multiple lines.
 
